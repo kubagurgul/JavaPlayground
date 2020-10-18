@@ -1,11 +1,12 @@
-package com.jgurgul.j13.proxy;
+package com.jgurgul.j13.designPatterns.proxy;
 
 
-import com.jgurgul.j13.proxy.annotations.MyCustomTransaction;
+import com.jgurgul.j13.designPatterns.proxy.annotations.MyCustomTransaction;
+import com.jgurgul.j13.designPatterns.proxy.annotations.TransactionalService;
 
 import java.io.File;
 
-@com.playground.proxy.annotations.TransactionalService
+@TransactionalService
 public class PlayerService implements Playable, Seekable {
     @Override
     @MyCustomTransaction

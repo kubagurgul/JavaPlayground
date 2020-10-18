@@ -1,4 +1,4 @@
-package com.jgurgul.j13.proxy.annotations;
+package com.jgurgul.j13.designPatterns.proxy.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

@@ -1,4 +1,4 @@
-package com.jgurgul.j13.proxy;
+package com.jgurgul.j13.designPatterns.proxy;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

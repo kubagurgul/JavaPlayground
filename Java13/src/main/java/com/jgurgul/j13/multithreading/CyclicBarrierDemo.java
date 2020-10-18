@@ -1,4 +1,4 @@
-package com.playground.j13.multithreading;
+package com.jgurgul.j13.multithreading;
 
 import java.util.concurrent.*;
 

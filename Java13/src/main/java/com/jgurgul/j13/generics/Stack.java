@@ -1,4 +1,4 @@
-package com.playground.j13.generics;
+package com.jgurgul.j13.generics;
 
 import java.util.ArrayList;
 import java.util.Collection;

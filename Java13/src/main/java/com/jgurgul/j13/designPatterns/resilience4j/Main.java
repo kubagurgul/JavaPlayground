@@ -1,4 +1,4 @@
-package com.jgurgul.j13.resilience4j;
+package com.jgurgul.j13.designPatterns.resilience4j;
 
 public class Main {
 
